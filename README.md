@@ -40,7 +40,7 @@ Mapa o rozměrech 500x500 jednotek byla vytvořena pomocí **Unity Terrain Tools
 
 ## 📊 Systém skóre
 
-[cite_start]Za každého eliminovaného zombie získá hráč 1 bod. Nejvyšší dosažené skóre se ukládá pomocí `PlayerPrefs`, takže zůstává uloženo i po vypnutí hry.
+Za každého eliminovaného zombie získá hráč 1 bod. Nejvyšší dosažené skóre se ukládá pomocí `PlayerPrefs`, takže zůstává uloženo i po vypnutí hry.
 
 ---
 **Autor:** Marián Kufa (IT4)
