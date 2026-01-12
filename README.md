@@ -1,6 +1,6 @@
 # 🧟‍♂️ 3D Zombie Survival v Unity (Maturitní projekt)
 
-Tento projekt je 3D survival střílečka vytvořená v rámci maturitní práce na **SSPU Opava** (Školní rok 2025/26). Hra kombinuje prvky akčního FPS a survival žánru, kde hráč čelí vlnám zombie nepřátel s cílem dosáhnout co nejvyššího skóre
+Tento projekt je 3D survival střílečka vytvořená v rámci maturitní práce na **SSPU Opava** (Školní rok 2025/26). Hra kombinuje prvky akčního FPS a survival žánru, kde hráč zabíjí nepřátele a snaží se přežít proti postupně zrychlujícímu se ai navigovanému zombíkovi.
 
 ## 🎮 Klíčové mechaniky
 
